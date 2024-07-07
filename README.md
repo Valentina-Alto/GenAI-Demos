@@ -6,7 +6,7 @@
 Feel free to explore, experiment, and contribute to the exciting world of generative AI! 🚀
 
 ## About me
-💻 Currently working as AI Specialist in Microsoft
+💻 Currently working as AI and Apps Technical Architect in Microsoft Dubai
 
 🎓 MSc in Data Science at Bocconi University
 
